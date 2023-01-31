@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main- prints the alphabet in lower case
- *
+ * main- entry point
+ * putchar - prints the alphabet
  * Return: 0
  */
-
 int main(void)
 {
 	char ch;
@@ -14,6 +13,6 @@ int main(void)
 	{
 		putchar(ch);
 	}
-		putchar(10);
+		putchar('\n');
 		return (0);
 }
