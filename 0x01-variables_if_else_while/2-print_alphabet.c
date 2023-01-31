@@ -8,16 +8,12 @@
 
 int main(void)
 {
-	char ch = 'a';
-
+	char ch;
+	
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		if (ch != 'e' && ch != 'q')
-
-			putchar(ch);
+		putchar(ch);
 	}
-
-	putchar('\n');
-
-	return (0);
+		putchar(10);
+		return (0);
 }
