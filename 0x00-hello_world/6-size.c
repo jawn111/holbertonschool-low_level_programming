@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * Return: - returns 0
+ * Return: - ends file
  */
 
 int main(void)
