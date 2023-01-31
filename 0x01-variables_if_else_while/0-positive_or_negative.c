@@ -3,10 +3,10 @@
 #include<stdio.h>
 
 /**
- * * main - Entry point
- * * if, else if, else statement to determine n
- * * Return: 0
- * */
+  * main - Entry point
+  * if, else if, else statement to determine n
+  * Return: 0
+  */
 
 int main(void)
 {
